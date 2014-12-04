@@ -4,8 +4,7 @@ CEF Based Web Browser Integration into Unreal Engine 4
 
 Released under the MIT license.
 
-
-https://www.youtube.com/watch?v=g6X76aFz2BA
+[![Demo](http://img.youtube.com/vi/g6X76aFz2BA/0.jpg)](https://www.youtube.com/watch?v=g6X76aFz2BA)
 
 # Key Features:
 
