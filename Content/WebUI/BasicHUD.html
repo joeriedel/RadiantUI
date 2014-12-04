@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<script type="text/javascript" src="js/jquery-1.10.2.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.10.4.min.js"></script>
+<script type="text/javascript" src="js/jstween-1.1.min.js"></script>
+<script type="text/javascript" src="js/prime-ui/primeui-1.1-min.js"></script>
+<script type='text/javascript' src='radiantui-null.js'></script>
+<script>
+(function(){
+IntroBarElement = function(ElementName, Time) {
+	var Element = $(ElementName);
+	var Width = Element.width();
+	Element.css("visibility", "visible");
+	Element.tween({
+		width:{
+			start: 0,
+			stop: Width,
+			time: 0,
+			duration: Time,
+			units: 'px',
+			effect: 'easeInOut'
+		}
+	});
+	$.play();
+}
+
+DocReadyTasks = function() {
+	IntroBarElement("#HealthBar", 1);
+	IntroBarElement("#ManaBar", 1);
+}
+
+$(document).ready(function(){
+	DocReadyTasks();
+});
+})();
+</script>
+</head>
+<body>
+
+<img src="HealthBar.png" height="30px" width="25%" style="visibility:hidden" id="HealthBar"/>
+<img src="ManaBar.png" height="30px" width="25%" style="visibility:hidden" id="ManaBar"/>
+	
+</body>
+</html>

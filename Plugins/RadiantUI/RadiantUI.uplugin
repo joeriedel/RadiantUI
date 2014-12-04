@@ -1,0 +1,22 @@
+{
+    "FileVersion" : 3,
+	
+	"FriendlyName" : "RadiantUI Plugin",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Joseph Riedel",
+	"CreatedByURL" : "http://radiantsdk.com",
+	"Description" : "RadiantUI",
+	"CategoryPath" : "UI",
+		
+    "Modules" :
+	[
+		{
+			"Name" : "RadiantUI",
+			"Type" : "Runtime",
+			"LoadingPhase" : "PreDefault"
+		}
+	],
+
+	"CanContainContent" : true
+}

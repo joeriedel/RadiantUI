@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "0.0",
+	"EngineVersion": "4.2.1-2101290+++depot+UE4-Releases+4.2",
+	"PackageFileUE4Version": 363,
+	"PackageFileLicenseeUE4Version": 0,
+	"EngineAssociation": "4.6",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"Modules": [
+		{
+			"Name": "RadiantUI_SDK",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"EpicSampleNameHash": "0"
+}

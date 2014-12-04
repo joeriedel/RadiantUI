@@ -1,0 +1,17 @@
+#HealthBar {
+	position: fixed;
+    top: 5%;
+    left: 10px;
+    z-index: 1;
+    padding: 0px;
+    margin: 0px;
+}
+
+#ManaBar {
+	position: fixed;
+    bottom: 5%;
+    right: 10px;
+    z-index: 1;
+    padding: 0px;
+    margin: 0px;
+}

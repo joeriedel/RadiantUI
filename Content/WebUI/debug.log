@@ -1,0 +1,82 @@
+[0613/232506:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0613/232507:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0613/232507:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0613/232507:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0613/232507:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0613/232507:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0613/232507:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0613/232510:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0613/232518:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0613/232518:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0613/232520:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0613/232614:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0613/232614:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0613/232616:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0613/232620:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0613/232622:ERROR:gles2_cmd_decoder.cc(5484)] .SharedGraphicsContext: GL ERROR :GL_INVALID_VALUE : glTexParameteri: unknown texture
+[0613/235338:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0613/235338:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0613/235341:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0613/235845:INFO:CONSOLE(0)] "TypeError: Cannot read property 'nodeType' of undefined
+    at Function.F.accepts (http://localhost:54321/_DRIVE_C_EVIRD_/Users/JOERIE~1/AppData/Local/Temp/Adobe/Edge%20Animate%203.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29278)
+    at Object.F.key (http://localhost:54321/_DRIVE_C_EVIRD_/Users/JOERIE~1/AppData/Local/Temp/Adobe/Edge%20Animate%203.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29358)
+    at Object.F.get (http://localhost:54321/_DRIVE_C_EVIRD_/Users/JOERIE~1/AppData/Local/Temp/Adobe/Edge%20Animate%203.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29781)
+    at Object.F.access (http://localhost:54321/_DRIVE_C_EVIRD_/Users/JOERIE~1/AppData/Local/Temp/Adobe/Edge%20Animate%203.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29914)
+    at Function.x.extend.data (http://localhost:54321/_DRIVE_C_EVIRD_/Users/JOERIE~1/AppData/Local/Temp/Adobe/Edge%20Animate%203.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:30537)
+    at undefined.c.Edge.undefined.c.Edge.Timeline.undefined.c.Edge.PropertyTween.c.width (http://localhost:54321/_DRIVE_C_EVIRD_/Users/JOERIE~1/AppData/Local/Temp/Adobe/Edge%20Animate%203.0.0/Untitled-1/edge_includes/edge.3.0.0.min.js:149:240)
+    at about:blank:0:75", source: about:blank (0)
+[0613/235845:INFO:CONSOLE(0)] "TypeError: Cannot read property 'nodeType' of undefined
+    at Function.F.accepts (http://localhost:54321/_DRIVE_C_EVIRD_/Users/JOERIE~1/AppData/Local/Temp/Adobe/Edge%20Animate%203.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29278)
+    at Object.F.key (http://localhost:54321/_DRIVE_C_EVIRD_/Users/JOERIE~1/AppData/Local/Temp/Adobe/Edge%20Animate%203.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29358)
+    at Object.F.get (http://localhost:54321/_DRIVE_C_EVIRD_/Users/JOERIE~1/AppData/Local/Temp/Adobe/Edge%20Animate%203.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29781)
+    at Object.F.access (http://localhost:54321/_DRIVE_C_EVIRD_/Users/JOERIE~1/AppData/Local/Temp/Adobe/Edge%20Animate%203.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:29914)
+    at Function.x.extend.data (http://localhost:54321/_DRIVE_C_EVIRD_/Users/JOERIE~1/AppData/Local/Temp/Adobe/Edge%20Animate%203.0.0/Untitled-1/edge_includes/jquery-2.0.3.min.js:4:30537)
+    at undefined.c.Edge.undefined.c.Edge.Timeline.undefined.c.Edge.PropertyTween.c.height (http://localhost:54321/_DRIVE_C_EVIRD_/Users/JOERIE~1/AppData/Local/Temp/Adobe/Edge%20Animate%203.0.0/Untitled-1/edge_includes/edge.3.0.0.min.js:150:113)
+    at about:blank:0:75", source: about:blank (0)
+[0613/235912:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235912:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235912:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235912:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235912:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235912:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235912:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235912:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235912:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235912:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235912:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235913:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235913:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235914:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235914:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235919:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235919:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235919:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235919:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235919:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235919:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0613/235919:INFO:CONSOLE(0)] "Uncaught SyntaxError: Unexpected token ILLEGAL", source: about:blank (0)
+[0614/212241:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0614/212241:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0614/212241:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0614/212241:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0614/212244:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0614/212246:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0614/212246:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0614/212247:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0614/212247:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0614/212250:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0614/212250:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0614/212250:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0614/212251:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0614/212251:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0614/212252:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0614/212252:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0614/212255:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0614/212255:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0614/212255:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0614/212256:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0614/212256:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0614/212259:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87
+[0614/212307:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0614/212307:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(267)] Error fetching PAC URL from DHCP: 2
+[0614/212309:ERROR:network_change_notifier_win.cc(160)] WSALookupServiceBegin failed with: 87

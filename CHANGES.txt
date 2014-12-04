@@ -1,0 +1,51 @@
+//////////////////////////////////////
+Beta 7 - 12/04/2014
+//////////////////////////////////////
+
+* Upgraded to Unreal Engine 4.6
+* Source released under MIT license.
+
+//////////////////////////////////////
+Beta 6 - 10/19/2014
+//////////////////////////////////////
+
+* Upgraded to Unreal Engine 4.5 - NOTE: UnrealEngine 4.5 removed the ability to do non-rectangular hit-testing. This means that Radiant WebViews
+  no longer support alpha hit-testing! Don't upgrade if this features is critical to you!
+
+//////////////////////////////////////
+Beta 5 - 8/25/2014
+//////////////////////////////////////
+
+* Upgraded to Unreal Engine 4.4
+* Fixed double key-press event in Web HUD elements.
+
+//////////////////////////////////////
+Beta 4 - 7/16/2014
+//////////////////////////////////////
+
+* Upgraded to Unreal Engine 4.3
+* Fixed painting and refresh deadlocks.
+
+//////////////////////////////////////
+Beta 3 - 7/2/2014
+//////////////////////////////////////
+
+* Added HUDElementInstances to HUD WebView.
+* Disabled context menu popups in CEF3.
+
+//////////////////////////////////////
+Beta 2 - 7/1/2014
+//////////////////////////////////////
+
+* Moved around some files, exporting more class using API linkage.
+* Packaging should be working now
+* Added GetWorld() to URadiantWebViewHUDElement, fixes "You must add a way to retrieve context to a class in the hierarchy."
+* Added RADIANTSDK_BIND_TYPES macro for projects that mysteriously link RadiantSDK as a static lib before linking. This fixes
+  all types being stripped out during linking. Not necessary unless you are experience lots of warnings about not being able to
+  load super classes from BlueprintGenerated classes.
+
+//////////////////////////////////////
+Beta 1 - 6/23/2014
+//////////////////////////////////////
+
+* Initial Release
