@@ -19,4 +19,4 @@ https://www.youtube.com/watch?v=g6X76aFz2BA
 # Known Issues
 
 * UE version 4.5 removed the ability to do non-rectangular hit-testing. Currently any Radiant WebView HUD Elements that have 
-hit testing enabled consume input from the entire screen. This probably could be fixed by adjust the slate widgets.
+hit testing enabled consume input from the entire screen. This probably could be fixed by adjusting the slate widgets.
