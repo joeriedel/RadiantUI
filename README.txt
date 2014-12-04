@@ -1,12 +1,13 @@
-RadiantUI
-=========
+# RadiantUI
 
 CEF Based Web Browser Integration into Unreal Engine 4
 
+Released under the MIT license.
+
+
 https://www.youtube.com/watch?v=g6X76aFz2BA
 
-Key Features:
-=========
+# Key Features:
 
 * Render HTML/CSS/JavaScript to any surface/material in the game.
 * No C++ coding required, everything is done through blueprints and components.
